@@ -1,0 +1,28 @@
+{
+  "functions": {
+    "add": {
+      "module": "math_operations",
+      "function": "add",
+      "args": ["int", "int"],
+      "returns": "int"
+    },
+    "subtract": {
+      "module": "math_operations",
+      "function": "subtract",
+      "args": ["int", "int"],
+      "returns": "int"
+    },
+    "multiply": {
+      "module": "math_operations",
+      "function": "multiply",
+      "args": ["int", "int"],
+      "returns": "int"
+    },
+    "divide": {
+      "module": "math_operations",
+      "function": "divide",
+      "args": ["int", "int"],
+      "returns": "float"
+    }
+  }
+}
